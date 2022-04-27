@@ -1,0 +1,17 @@
+yarn add all
+npm install -g truffle
+npm install solc@0.8.1
+1. paste your smart contract(change name of class to SmartContract)
+2. in cmd, run ganache-cli (necessary for truffle command)
+2. for src contracts file run : truffle migrate --reset (it will install files in contract)
+3. goto src/redux/blockchain/blockchainActions and paste the smart contract address in line 50 and in line 47, change the network id to 1(ETH, )4(rinkeby),137(polygon), 80001(mumbai polygon) depends on the smart contract on which network it is deployed
+yarn dev-server
+
+ //recent contract verified: 0x988d805A8ac3D8D43c881F36d290A96B60Bf4f3A
+
+ verify:
+ npm install @truffle/hdwallet-provider
+
+
+ error:
+ polyfill: yarn add path-browserify --dev , 2. in package: change react strip from 5.0.0 to 4.0.3 , 3. npm install assert buffer --save-dev 4. npm i path-browserify -D
