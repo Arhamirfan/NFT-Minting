@@ -1,19 +1,12 @@
-# Welcome to HashLips 👄
+# NFT Minting Webpage in REACT.
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+This project contains:
+- ERC-721 Smart Contract
+- Truffle and local ganache connection
+- Front-end template in react with a minting button which connects with our smart contract.
 
-To find out more please visit:
+# NFT Project:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+## Reckless Racoons Club
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# Base Dapp Frontend Layout
-
-A base project to start your dapp from.
+The reckless racoons is a collection of 15,000 adorable and unique stupid racoons NFTs available on the Ethereum(polygon) blockchain having cute and naughty looks. Reckless racoons are randomly generated NFTs from 150+ traits. By owning a racoon, you will be a part of long term vision, brand and community with events on weekly basis, giveaways, charity, own NFT creation and much more to come in 2022. Our vision is to bring more joy to the world through community, creativity and offer help by charity -  Fun art! By founder dipsey.
